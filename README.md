@@ -21,15 +21,15 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-Tener instalado git en tu pc, asi como algun editor de codigo como VSCode. 
+Have git installed on your PC, as well as a code editor like VSCode. 
 
 ### Install
 
-Clonar este repositorio en tu maquina local e instalar preferiblemente live server en caso de usar vscode
+Clone this repository on your local machine and preferably install live server if using vscode
 
 ### Usage
 
-Dar click derecho dentro del archivo index.html y luego a "Open with live server"
+Right click inside the index.html file and then click "Open with live server"
 
 ## Authors
 
